@@ -16,3 +16,10 @@ A lightweight python script that reads a list of files, a word to find, and a wo
      program.cpp
      program.h 
 
+# Installation
+
+Clone the github directory into the folder with the files you want to replace.  
+
+#Requirements
+
+* Python 2.7 or above.
