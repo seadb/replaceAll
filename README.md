@@ -4,11 +4,11 @@ A lightweight python script that reads a list of files, a word to find, and a wo
 
 *Format*:
 
-    python replaceAll.py filename wordToFind wordToReplace
+    python replaceAll.py filename wordToFind wordToReplace[ suffix]
 
 *Example*:
 
-    python replaceAll files.txt name mName
+    python replaceAll files.txt name mName _new
 
 
 #### Example files.txt
